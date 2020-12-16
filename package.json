@@ -1,0 +1,31 @@
+{
+    "name": "form_editor_jx",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "vue-cli-service serve",
+        "build": "vue-cli-service build"
+    },
+    "dependencies": {
+        "axios": "^0.21.0",
+        "clipboard": "^2.0.6",
+        "core-js": "^3.6.5",
+        "element-ui": "^2.13.2",
+        "mockjs": "^1.1.0",
+        "vue": "^2.6.11",
+        "vue-router": "^3.2.0",
+        "vue2-editor": "^2.10.2",
+        "vuedraggable": "^2.24.0",
+        "vuex": "^3.5.1"
+    },
+    "devDependencies": {
+        "@vue/cli-plugin-babel": "~4.5.0",
+        "@vue/cli-plugin-router": "~4.5.0",
+        "@vue/cli-plugin-vuex": "~4.5.0",
+        "@vue/cli-service": "~4.5.0",
+        "node-sass": "^4.12.0",
+        "sass-loader": "^8.0.2",
+        "vue-template-compiler": "^2.6.11",
+        "webpack": "^4.0.0"
+    }
+}
